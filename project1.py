@@ -12,7 +12,7 @@
 
 #SOLUTION
 #STEP1: choose the words and create a list of words where the computer can randomly select from the game
-#improt random
+
 #randomly select the word from the existing list 
 import random
 words=["python", "AI", "hangman", "developer", "computer", "computer science"]
